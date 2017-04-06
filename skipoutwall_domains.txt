@@ -1,2 +1,3 @@
 paypal.com
 hsbc.com.hk
+hsbc.com.cn
