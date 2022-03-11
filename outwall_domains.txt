@@ -3,3 +3,5 @@ appcenter.ms
 appstoreconnect.apple.com
 dl-xda.xposed.info
 gravatar.com
+tiktokv.com
+snssdk.com
