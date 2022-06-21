@@ -5,3 +5,4 @@ dl-xda.xposed.info
 gravatar.com
 tiktokv.com
 snssdk.com
+tiantong.app
