@@ -8,3 +8,4 @@ snssdk.com
 tiantong.app
 openai.com
 annas-archive.se
+googleapis.com:443
